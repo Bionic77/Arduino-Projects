@@ -1,6 +1,6 @@
 # Arduino-Projects
 DIY stuff! Hobby Projects
 
-The codes used are all sourced from help files, arduino forumns and various discussion groups. They have been modified and / or tweeked as needed. 
+All code here are based on ideas / suggestions / examples that I have come across in help files, arduino forumns and various discussion groups. 
 
-Due credit to the original writers of the codes are acknowledged. 
+Any code directly used have been modified and / or tweeked as needed. Credit to the original writers of the codes duly acknowledged! 
